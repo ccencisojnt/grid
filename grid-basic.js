@@ -1,4 +1,5 @@
 function Grid(ctx, colour){
+    //adding a comment
     this.init = ()=>{
         this.ctx = ctx;
         this.lineAlpha = 10;
